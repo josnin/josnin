@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🔭 I’m currently working on some stuff
+ :rocket: Lets start coding 😄
  
  - Editor: VS Code + Vim, Tmux + Vim
  - OS: Fedora

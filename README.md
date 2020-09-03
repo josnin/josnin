@@ -1,5 +1,8 @@
 ### Hi there 👋
  🔭 I’m currently working on some stuff
+ 
+ Editor: VS Code + Vim, Tmux + Vim
+ OS: Fedora
 
 <!--
 **josnin/josnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
